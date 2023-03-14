@@ -23,7 +23,7 @@ h1{
        width: 400px;
        padding: 30px;
        border-radius: 10px;
-       box-shadow: 0 0 10px rgba(27, 27, 27, 0.7);
+       box-shadow: 0 0 10px rgba(27, 27, 27, 0.2);
 }
 input{
        width: 100%;
